@@ -1,5 +1,5 @@
 ## Data-Analysis-with-Python-Internship-Task-2
-Titanic Dataset Analysis
+### Titanic Dataset Analysis
 
 This project is part of my Data Science with Python Internship – Task 2.
 
